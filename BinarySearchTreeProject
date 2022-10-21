@@ -1,0 +1,9 @@
+1) [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+
+1. 10 sayı var ortadaki sayı olan 5'i alıp rootumuz yapıyoruz.
+
+2. Rootun sağında roottan büyük; solunda ise roottan küçük sayılar olur, dolayısıyla:
+
+3. SAĞ KISIM: 5 sağında 5-10 aralığının ortasındaki sayı 7 olur. 7 (6) ve (9) diye ayrılır. (6)'nın altında 8 yerini alır; (9)'un altında 10 yerini alır.
+
+4. SOL KISIM: 5 solunda 0-5 aralığının ortasındaki 3 sayısı olur. 3 (2) ve (4) diye ayrılır. (2)'nin altına 1; (4)'ün altına 5 yazılır.
